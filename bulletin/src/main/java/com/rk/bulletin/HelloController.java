@@ -17,6 +17,7 @@ public class HelloController {
 	
 	
 /*Content to be changed and updated in Github
+*Updated from Github and now in Eclipse to be refelected
  * Request mapping will allow me to use it in url like 
  * http://localhost:8089/hello/rajesh	
  */
